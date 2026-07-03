@@ -3,8 +3,8 @@ spring:
     name: nubank
   datasource:
     url: jdbc:postgresql://localhost:5432/cadastro
-    username: "postgres"
-    password: "nicolas9013"
+    username: ""
+    password: ""
 
   jpa:
     hibernate:
